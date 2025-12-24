@@ -18,13 +18,9 @@ Focused on machine learning and applied AI.<br>Building clear, reproducible proj
 ---
 [![](https://visitcount.itsvg.in/api?id=soumya0x&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/soumya0x/soumya0x/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumya0x/soumya0x/output/pacman-contribution-graph-dark.svg">
