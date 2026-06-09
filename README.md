@@ -8,8 +8,6 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-activity-graph.vercel.app/graph?username=soumya0x&bg_color=0d0d0d&color=c084fc&line=7c3aed&point=ffffff&area=true&hide_border=true" />
-
 ### 🧠 About Me
 
 ```python
@@ -28,7 +26,11 @@ class Soumya:
 - 🌐 Obsessed with systems that **scale without constant human input**
 - 🛠️ Current stack includes **Claude API, Python, n8n, TensorFlow**
 
-<br clear="right"/>
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=soumya0x&bg_color=0d0d0d&color=c084fc&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+
+</div>
 
 ---
 
