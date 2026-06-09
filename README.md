@@ -109,7 +109,7 @@ class Soumya:
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=soumya0x&icon=6&color=7" />
+<img src="https://komarev.com/ghpvc/?username=soumya0x&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
 <br/>
 
