@@ -73,11 +73,13 @@ class Soumya:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soumya0x&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a78bfa&icon_color=7c3aed&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumya0x&theme=github_dark" height="170"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=soumya0x&theme=tokyonight&hide_border=true&background=0d0d0d&ring=c084fc&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=soumya0x&theme=tokyonight&hide_border=true&background=0d0d0d&ring=c084fc&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya0x&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a78bfa&layout=compact&langs_count=6&cache_seconds=86400" height="130"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumya0x&theme=github_dark" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumya0x&theme=github_dark" height="170"/>
 
 </div>
 
@@ -87,9 +89,9 @@ class Soumya:
 
 <div align="center">
 
-[![UCI HAR Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya0x&repo=UCI-Human-Activity-Recognition&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a78bfa&icon_color=7c3aed)](https://github.com/soumya0x/UCI-Human-Activity-Recognition)
+[![UCI Human Activity Recognition](https://img.shields.io/badge/UCI_Human_Activity_Recognition-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=c084fc)](https://github.com/soumya0x/UCI-Human-Activity-Recognition)
 &nbsp;&nbsp;
-[![Egypt Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya0x&repo=egypt&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a78bfa&icon_color=7c3aed)](https://github.com/soumya0x/egypt)
+[![Egypt](https://img.shields.io/badge/Egypt-0d0d0d?style=for-the-badge&logo=html5&logoColor=c084fc)](https://github.com/soumya0x/egypt)
 
 </div>
 
