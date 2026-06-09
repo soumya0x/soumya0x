@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=SOUMYA&fontSize=80&fontColor=c084fc&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Automation%20Architect%20%E2%80%A2%20Digital%20Builder&descSize=15&descAlignY=67&descColor=a78bfa"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+work+without+me+%F0%9F%A4%96;Applied+ML+%7C+LLMs+%7C+Automation+Pipelines+%E2%9A%99%EF%B8%8F;CSE+Graduate+%E2%80%94+MAKAUT+%7C+Kolkata%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+complexity+into+systems+that+scale+%F0%9F%93%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+work+without+me+%F0%9F%A4%96;Applied+ML+%7C+LLMs+%7C+Automation+Pipelines+%E2%9A%99%EF%B8%8F;CSE+Graduate+%E2%80%94+MAKAUT+%7C+Kolkata%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+complexity+into+systems+that+scale+%F0%9F%93%88)](https://github.com/soumya0x)
 
 </div>
 
@@ -49,7 +49,7 @@ class Soumya:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=c084fc)
 ![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=c084fc)
 ![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=c084fc)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0d0d?style=for-the-badge&logo=python&logoColor=c084fc)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0d0d?style=for-the-badge&logo=plotly&logoColor=c084fc)
 
 **LLMs & Automation**
 
@@ -73,11 +73,11 @@ class Soumya:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soumya0x&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a78bfa&icon_color=7c3aed&include_all_commits=true&count_private=true&show_icons=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=soumya0x&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a78bfa&icon_color=7c3aed&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" height="160"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=soumya0x&theme=tokyonight&hide_border=true&background=0d0d0d&ring=c084fc&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya0x&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a78bfa&layout=compact&langs_count=6" height="130"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya0x&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a78bfa&layout=compact&langs_count=6&cache_seconds=86400" height="130"/>
 
 </div>
 
