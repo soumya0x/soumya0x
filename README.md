@@ -93,7 +93,7 @@ class Soumya:
 
 [![UCI Human Activity Recognition](https://img.shields.io/badge/UCI_Human_Activity_Recognition-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=c084fc)](https://github.com/soumya0x/UCI-Human-Activity-Recognition)
 &nbsp;&nbsp;
-[![Egypt](https://img.shields.io/badge/Egypt-0d0d0d?style=for-the-badge&logo=html5&logoColor=c084fc)](https://github.com/soumya0x/egypt)
+[![Egypt Trip Planner](https://img.shields.io/badge/Egypt-0d0d0d?style=for-the-badge&logo=html5&logoColor=c084fc)](https://github.com/soumya0x/egypt)
 
 </div>
 
