@@ -13,7 +13,7 @@
 ```python
 class Soumya:
     location    = "Kolkata, India 🇮🇳"
-    education   = "BTech CSE — MAKAUT"
+    education   = "B.Tech Computer Science""
     focus       = ["Applied ML", "LLM Pipelines",
                    "Automation Systems", "Digital AI Products"]
     currently   = "Building systems that generate value while idle"
