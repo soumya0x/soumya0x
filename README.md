@@ -4,16 +4,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+work+without+me+%F0%9F%A4%96;Applied+ML+%7C+LLMs+%7C+Automation+Pipelines+%E2%9A%99%EF%B8%8F;B.Tech+CSE+%E2%80%94+MAKAUT+%7C+Kolkata%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+complexity+into+systems+that+scale+%F0%9F%93%88)](https://github.com/soumya0x)
 
+<img src="https://raw.githubusercontent.com/soumya0x/soumya0x/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header&reversal=true"/>
 
 ### 🧠 About Me
 
 ```python
 class Soumya:
     location    = "Kolkata, India 🇮🇳"
-    education   = "B.Tech CSE, MAKAUT (2025)"
+    education   = "B.Tech CSE, MAKAUT"
     focus       = ["Applied ML", "LLM Pipelines",
                    "Automation Systems", "Digital AI Products"]
     currently   = "Shipping agents that ship work"
@@ -31,7 +33,7 @@ class Soumya:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=80&section=header"/>
 
 ### ⚡ Tech Arsenal
 
@@ -68,15 +70,21 @@ class Soumya:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=80&section=header"/>
 
 ### 🛠️ Now Building
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=600&color=A78BFA&center=true&vCenter=true&width=600&lines=clinicflow-ai+%E2%80%94+Claude+tool-use+over+patient+intake;kiro-gateway+%E2%80%94+LLM+routing+with+provider+failover;n8n-workflow-library+%E2%80%94+reusable+automation+templates)](https://github.com/soumya0x)
+
+</div>
 
 - **clinicflow-ai** — clinical workflow agent, Claude tool-use over patient intake
 - **kiro-gateway** — LLM routing layer with provider failover
 - **n8n-workflow-library** — reusable automation templates
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=80&section=header"/>
 
 ### 🚀 Featured Projects
 
@@ -94,7 +102,17 @@ class Soumya:
 **UCI Human Activity Recognition** — sensor-data classification, scikit-learn + pandas, Jupyter notebook
 **Egypt Trip Planner** — static itinerary site, HTML/CSS
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=80&section=header"/>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=soumya0x&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=80&section=header"/>
 
 ### 📊 GitHub Stats
 
@@ -110,7 +128,7 @@ class Soumya:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=80&section=header"/>
 
 ### 🌐 Connect
 
