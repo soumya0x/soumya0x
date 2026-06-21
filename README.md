@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+work+without+me+%F0%9F%A4%96;Applied+ML+%7C+LLMs+%7C+Automation+Pipelines+%E2%9A%99%EF%B8%8F;B.Tech+CSE+%E2%80%94+MAKAUT+%7C+Kolkata%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+complexity+into+systems+that+scale+%F0%9F%93%88)](https://github.com/soumya0x)
 
-<img src="https://raw.githubusercontent.com/soumya0x/soumya0x/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header&reversal=true"/>
@@ -101,16 +99,6 @@ class Soumya:
 
 **UCI Human Activity Recognition** — sensor-data classification, scikit-learn + pandas, Jupyter notebook
 **Egypt Trip Planner** — static itinerary site, HTML/CSS
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=80&section=header"/>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=soumya0x&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=80&section=header"/>
 
