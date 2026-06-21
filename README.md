@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=SOUMYA&fontSize=80&fontColor=c084fc&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Automation%20Architect%20%E2%80%A2%20Digital%20Builder&descSize=15&descAlignY=67&descColor=a78bfa"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+work+without+me+%F0%9F%A4%96;Applied+ML+%7C+LLMs+%7C+Automation+Pipelines+%E2%9A%99%EF%B8%8F;CSE+Graduate+%E2%80%94+MAKAUT+%7C+Kolkata%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+complexity+into+systems+that+scale+%F0%9F%93%88)](https://github.com/soumya0x)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+work+without+me+%F0%9F%A4%96;Applied+ML+%7C+LLMs+%7C+Automation+Pipelines+%E2%9A%99%EF%B8%8F;B.Tech+CSE+%E2%80%94+MAKAUT+%7C+Kolkata%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+complexity+into+systems+that+scale+%F0%9F%93%88)](https://github.com/soumya0x)
 
 </div>
 
@@ -13,18 +13,17 @@
 ```python
 class Soumya:
     location    = "Kolkata, India 🇮🇳"
-    education   = "B.Tech Computer Science"
+    education   = "B.Tech CSE, MAKAUT (2025)"
     focus       = ["Applied ML", "LLM Pipelines",
                    "Automation Systems", "Digital AI Products"]
-    currently   = "Building systems that generate value while idle"
+    currently   = "Shipping agents that ship work"
     philosophy  = "If it can be automated — it already should be"
 ```
 
-- 🔬 Deep-diving into **agentic AI** and real-world ML applications
+- 🔬 Building **agentic AI** systems with Claude + tool-use loops
 - ⚙️ Architecting automation pipelines that eliminate repetitive work
-- 📦 Building digital products powered by AI at their core
-- 🌐 Obsessed with systems that **scale without constant human input**
-- 🛠️ Current stack includes **Claude API, Python, n8n, TensorFlow**
+- 📦 Shipping digital products powered by AI at their core
+- 🛠️ Stack: **Claude API · Python · n8n · TensorFlow**
 
 <div align="center">
 
@@ -55,10 +54,10 @@ class Soumya:
 
 **LLMs & Automation**
 
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=c084fc)
+![Claude](https://img.shields.io/badge/Claude_API-0d0d0d?style=for-the-badge&logoColor=c084fc)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-0d0d0d?style=for-the-badge&logo=openai&logoColor=c084fc)
 ![n8n](https://img.shields.io/badge/n8n-0d0d0d?style=for-the-badge&logo=n8n&logoColor=c084fc)
-![Make](https://img.shields.io/badge/Make.com-0d0d0d?style=for-the-badge&logo=make&logoColor=c084fc)
+![Make](https://img.shields.io/badge/Make.com-0d0d0d?style=for-the-badge&logoColor=c084fc)
 
 **Dev Tools**
 
@@ -68,6 +67,32 @@ class Soumya:
 ![macOS](https://img.shields.io/badge/macOS-0d0d0d?style=for-the-badge&logo=apple&logoColor=c084fc)
 
 </div>
+
+---
+
+### 🛠️ Now Building
+
+- **clinicflow-ai** — clinical workflow agent, Claude tool-use over patient intake
+- **kiro-gateway** — LLM routing layer with provider failover
+- **n8n-workflow-library** — reusable automation templates
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/soumya0x/UCI-Human-Activity-Recognition">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumya0x&repo=UCI-Human-Activity-Recognition&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=c084fc&icon_color=a78bfa" />
+</a>
+<a href="https://github.com/soumya0x/egypt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumya0x&repo=egypt&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=c084fc&icon_color=a78bfa" />
+</a>
+
+</div>
+
+**UCI Human Activity Recognition** — sensor-data classification, scikit-learn + pandas, Jupyter notebook
+**Egypt Trip Planner** — static itinerary site, HTML/CSS
 
 ---
 
@@ -82,18 +107,6 @@ class Soumya:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumya0x&theme=github_dark" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumya0x&theme=github_dark" height="170"/>
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-[![UCI Human Activity Recognition](https://img.shields.io/badge/UCI_Human_Activity_Recognition-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=c084fc)](https://github.com/soumya0x/UCI-Human-Activity-Recognition)
-&nbsp;&nbsp;
-[![Egypt Trip Planner](https://img.shields.io/badge/Egypt-0d0d0d?style=for-the-badge&logo=html5&logoColor=c084fc)](https://github.com/soumya0x/egypt)
 
 </div>
 
