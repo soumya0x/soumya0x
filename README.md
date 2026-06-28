@@ -23,7 +23,7 @@ soumya@kolkata:~$ cat ./profile.json
 ```json
 {
   "name":      "Soumya",
-  "role":      "AI Engineer · Automation Builder",
+  "role":      "Automation Builder",
   "location":  "Kolkata, India",
   "education": "B.Tech CSE — MAKAUT",
   "focus":     ["Applied ML", "LLM Pipelines", "Agentic Systems", "Digital AI Products"],
