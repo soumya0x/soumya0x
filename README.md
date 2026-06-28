@@ -152,7 +152,6 @@ soumya@kolkata:~$ cat ./profile.json
   - Applied ML coursework · sensor data · classification pipelines
 
 2024:
-  - B.Tech CSE — MAKAUT
   - First production ML model · UCI HAR classifier
   - Daily Python practice begins
 ```
@@ -248,7 +247,5 @@ open-to:
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=110&section=footer"/>
-
-<sub><i>Built with caffeine, Claude, and conviction.</i></sub>
 
 </div>
