@@ -241,7 +241,7 @@ open-to:
 <br/><br/>
 
 <a href="https://github.com/soumya0x">
-  <img src="https://github.com/soumya0x/soumya0x/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/soumya0x/soumya0x/output/github-contribution-grid-snake-dark.svg" alt="snake gif" width="100%"/>
 </a>
 
 <br/>
