@@ -173,18 +173,7 @@ soumya@kolkata:~$ cat ./profile.json
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:c084fc,100:0d0d0d&height=2"/>
 
-<!-- ═══════════════════ 9. TROPHIES ═══════════════════ -->
-## `> trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=soumya0x&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,Experience"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:c084fc,100:0d0d0d&height=2"/>
-
-<!-- ═══════════════════ 10. ACTIVITY GRAPH ═══════════════════ -->
+<!-- ═══════════════════ 9. ACTIVITY GRAPH ═══════════════════ -->
 ## `> activity-graph`
 
 <div align="center">
