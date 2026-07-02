@@ -3,7 +3,7 @@
 <!-- ═══════════════════ 1. ANIMATED BANNER ═══════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=240&section=header&text=SOUMYA&fontSize=92&fontColor=c084fc&animation=fadeIn&fontAlignY=42&desc=Building+AI+systems+that+ship+work&descSize=18&descAlignY=68&descColor=a78bfa"/>
 
-<!-- ═══════════════════ 2. TYPING SVG + BADGES ═══════════════════ -->
+<!-- ═══════════════════ 2. TYPING SVG ═══════════════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=720&lines=Applied+ML+%E2%80%A2+LLM+Pipelines+%E2%80%A2+Automation;Claude+tool-use+%7C+Python+%7C+n8n+%7C+TensorFlow;B.Tech+CSE+%E2%80%94+MAKAUT+%7C+Kolkata%2C+India;If+it+can+be+automated+%E2%80%94+it+already+should+be.)](https://github.com/soumya0x)
 
 </div>
@@ -149,19 +149,36 @@ soumya@kolkata:~$ cat ./profile.json
 
 2024:
   - First production ML model · UCI HAR classifier
-  - Daily Python practice begins
+  - Daily Python practice · scikit-learn · pandas fundamentals
+
+2023:
+  - Web dev side projects · static sites · responsive layouts
+  - Serious dive into Python · scripting + automation
+
+2022:
+  - Full-stack basics · HTML / CSS / JS
+  - Started B.Tech CSE — MAKAUT
+  - First real commits · learning git workflow
+
+2021:
+  - Programming fundamentals · C / Python intro
+  - Building small CLI scripts · exploring open source
+
+2020:
+  - First GitHub account · exploring the tooling
+  - Curiosity-driven experiments
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:c084fc,100:0d0d0d&height=2"/>
 
-<!-- ═══════════════════ 8. GITHUB ANALYTICS ═══════════════════ -->
-## `> github-analytics`
+<!-- ═══════════════════ 8. METRICS ═══════════════════ -->
+## `> metrics`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Coding_since-2020-c084fc?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Building_since-2020-c084fc?style=for-the-badge&labelColor=0d0d0d"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Total_contributions-1162+-c084fc?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Contributions-1160+-c084fc?style=for-the-badge&labelColor=0d0d0d"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-Agentic_AI-c084fc?style=for-the-badge&labelColor=0d0d0d"/>
 
@@ -171,7 +188,9 @@ soumya@kolkata:~$ cat ./profile.json
 &nbsp;
 <img height="180" src="https://streak-stats.demolab.com/?user=soumya0x&hide_border=true&background=0d0d0d&stroke=7c3aed&ring=c084fc&fire=c084fc&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=a78bfa&dates=6b7280&v=4"/>
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soumya0x&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=1800&v=4"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumya0x&theme=radical&v=4"/>
+&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soumya0x&theme=radical&utcOffset=5.5&v=4"/>
 
 </div>
 
@@ -188,22 +207,7 @@ soumya@kolkata:~$ cat ./profile.json
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:c084fc,100:0d0d0d&height=2"/>
 
-<!-- ═══════════════════ 11. SUMMARY CARDS ═══════════════════ -->
-## `> summary-cards`
-
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumya0x&theme=radical&v=3"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumya0x&theme=radical&v=3"/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumya0x&theme=radical&v=3"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soumya0x&theme=radical&utcOffset=5.5&v=3"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:c084fc,100:0d0d0d&height=2"/>
-
-<!-- ═══════════════════ 12. CURRENT FOCUS + CONNECT + FOOTER ═══════════════════ -->
+<!-- ═══════════════════ 10. CURRENT FOCUS ═══════════════════ -->
 ## `> current-focus`
 
 ```yaml
@@ -223,10 +227,13 @@ open-to:
   - Collaborating on agentic side projects
 ```
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:c084fc,100:0d0d0d&height=2"/>
+
+<!-- ═══════════════════ 11. SNAKE + CONNECT + FOOTER ═══════════════════ -->
 <div align="center">
 
 <a href="https://github.com/soumya0x">
-  <img src="https://raw.githubusercontent.com/soumya0x/soumya0x/output/github-contribution-grid-snake-dark.svg" alt="snake gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/soumya0x/soumya0x/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="900"/>
 </a>
 
 <br/><br/>
@@ -238,6 +245,8 @@ open-to:
 <a href="https://github.com/soumya0x"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d0d"/></a>
 
 <br/>
+
+<sub><i>Built with intent · shipped with rhythm · always learning.</i></sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=110&section=footer"/>
 
