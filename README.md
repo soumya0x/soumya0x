@@ -163,11 +163,19 @@ soumya@kolkata:~$ cat ./profile.json
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=soumya0x&show_icons=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a78bfa&text_color=ffffff&ring_color=7c3aed"/>
+<img src="https://img.shields.io/badge/Coding_since-2020-c084fc?style=for-the-badge&labelColor=0d0d0d"/>
 &nbsp;
-<img height="180" src="https://streak-stats.demolab.com/?user=soumya0x&hide_border=true&background=0d0d0d&stroke=7c3aed&ring=c084fc&fire=c084fc&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=a78bfa&dates=6b7280"/>
+<img src="https://img.shields.io/badge/Total_contributions-1162+-c084fc?style=for-the-badge&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Agentic_AI-c084fc?style=for-the-badge&labelColor=0d0d0d"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya0x&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=ffffff&langs_count=8"/>
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=soumya0x&show_icons=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a78bfa&text_color=ffffff&ring_color=7c3aed&cache_seconds=1800&v=3"/>
+&nbsp;
+<img height="180" src="https://streak-stats.demolab.com/?user=soumya0x&hide_border=true&background=0d0d0d&stroke=7c3aed&ring=c084fc&fire=c084fc&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=a78bfa&dates=6b7280&v=3"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya0x&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=1800&v=3"/>
 
 </div>
 
@@ -189,11 +197,11 @@ soumya@kolkata:~$ cat ./profile.json
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumya0x&theme=react"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumya0x&theme=react"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumya0x&theme=radical&v=3"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumya0x&theme=radical&v=3"/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumya0x&theme=react"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soumya0x&theme=react&utcOffset=5.5"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumya0x&theme=radical&v=3"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soumya0x&theme=radical&utcOffset=5.5&v=3"/>
 
 </div>
 
