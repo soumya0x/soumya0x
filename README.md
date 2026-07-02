@@ -157,7 +157,6 @@ soumya@kolkata:~$ cat ./profile.json
 
 2022:
   - Full-stack basics · HTML / CSS / JS
-  - Started B.Tech CSE — MAKAUT
   - First real commits · learning git workflow
 
 2021:
