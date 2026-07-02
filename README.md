@@ -225,17 +225,17 @@ open-to:
 
 <div align="center">
 
+<a href="https://github.com/soumya0x">
+  <img src="https://raw.githubusercontent.com/soumya0x/soumya0x/output/github-contribution-grid-snake-dark.svg" alt="snake gif" width="100%"/>
+</a>
+
+<br/><br/>
+
 ### `> connect`
 
 <a href="https://linkedin.com/in/soumyadeep01"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2MwODRmYyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjMgMi4wNjMgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&labelColor=0d0d0d"/></a>
 <a href="mailto:sdm7668@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0d0d0d"/></a>
 <a href="https://github.com/soumya0x"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d0d"/></a>
-
-<br/><br/>
-
-<a href="https://github.com/soumya0x">
-  <img src="https://raw.githubusercontent.com/soumya0x/soumya0x/output/github-contribution-grid-snake-dark.svg" alt="snake gif" width="100%"/>
-</a>
 
 <br/>
 
