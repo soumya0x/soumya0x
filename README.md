@@ -6,10 +6,6 @@
 <!-- ═══════════════════ 2. TYPING SVG + BADGES ═══════════════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=720&lines=Applied+ML+%E2%80%A2+LLM+Pipelines+%E2%80%A2+Automation;Claude+tool-use+%7C+Python+%7C+n8n+%7C+TensorFlow;B.Tech+CSE+%E2%80%94+MAKAUT+%7C+Kolkata%2C+India;If+it+can+be+automated+%E2%80%94+it+already+should+be.)](https://github.com/soumya0x)
 
-<a href="https://linkedin.com/in/soumyadeep01"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=c084fc&labelColor=0d0d0d"/></a>
-<a href="mailto:sdm7668@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0d0d0d"/></a>
-<a href="https://github.com/soumya0x"><img src="https://komarev.com/ghpvc/?username=soumya0x&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/></a>
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:c084fc,100:0d0d0d&height=2"/>
@@ -171,11 +167,11 @@ soumya@kolkata:~$ cat ./profile.json
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=soumya0x&show_icons=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a78bfa&text_color=ffffff&ring_color=7c3aed&cache_seconds=1800&v=3"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=soumya0x&show_icons=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a78bfa&text_color=ffffff&ring_color=7c3aed&cache_seconds=1800&v=4"/>
 &nbsp;
-<img height="180" src="https://streak-stats.demolab.com/?user=soumya0x&hide_border=true&background=0d0d0d&stroke=7c3aed&ring=c084fc&fire=c084fc&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=a78bfa&dates=6b7280&v=3"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=soumya0x&hide_border=true&background=0d0d0d&stroke=7c3aed&ring=c084fc&fire=c084fc&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=a78bfa&dates=6b7280&v=4"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya0x&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=1800&v=3"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soumya0x&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=1800&v=4"/>
 
 </div>
 
